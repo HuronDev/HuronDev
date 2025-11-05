@@ -1,23 +1,25 @@
-<h1 align="center">👋 ¡Hola! Soy Carlos Andrés Paredes</h1>
+<h1 align="center">✨ ¡Hey, qué tal! Soy HuronDev 👨‍💻</h1>
 
 <p align="center">
-  💻 <b>Desarrollador Full Stack Junior</b> <br>
-  React · Angular · NestJS · Express · TypeScript · JavaScript · Prisma · TypeORM · PostgreSQL · .NET Core · Next.js · Docker
+  <b>💻 Desarrollador Full Stack Junior</b> <br>
+  React ⚛️ · Angular 🚀 · NestJS 🐱‍👤 · Express ⚙️ · TypeScript 🔷 · JavaScript 🟨 · Prisma 🧩 · TypeORM 🔗 · PostgreSQL 🐘 · .NET Core 💡 · Next.js ⚡ · Docker 🐳
 </p>
 
 ---
 
-### 🚀 Sobre mí
+### 🧠 Sobre mí
 
-Soy **Ingeniero en Tecnologías de la Información** apasionado por el desarrollo de software moderno y eficiente.  
-Disfruto construir soluciones completas —desde el frontend hasta el backend— aplicando buenas prácticas, arquitectura limpia y código mantenible.  
-Mi objetivo es seguir creciendo como **Full Stack Developer**, aportando valor a través de la tecnología y la innovación.  
+Hola 👋 soy **Carlos Andrés Paredes**, Ingeniero en Tecnologías de la Información y actual **Desarrollador Full Stack Junior en [MAXCO](#)**.  
+Me encanta crear soluciones tecnológicas modernas que mezclen diseño, rendimiento y buenas prácticas.  
+Siempre busco aprender cosas nuevas, optimizar mi código y construir experiencias digitales con propósito 💪.  
+
+> 💬 “El código es mi forma de arte y la tecnología mi lienzo.”
 
 ---
 
-### 🧠 Tecnologías y herramientas
+### 🚀 Tecnologías y herramientas que uso
 
-#### 💻 Frontend
+#### 🎨 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)
@@ -32,34 +34,35 @@ Mi objetivo es seguir creciendo como **Full Stack Developer**, aportando valor a
 ![TypeORM](https://img.shields.io/badge/-TypeORM-FF6C37?style=for-the-badge&logo=typeorm&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 
-#### 🐳 DevOps & Otros
+#### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mis estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosaparedes&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaparedes&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosaparedes&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaparedes&layout=compact&theme=radical" height="180em" />
 </p>
 
 ---
 
-### 📫 Conéctate conmigo
+### 🌎 Conéctate conmigo
 
 <p align="center">
-  <a href="mailto:tucorreo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
-  <a href="https://www.linkedin.com/in/tuusuario/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
+  <a href="mailto:carlos.paredes23@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
+  <a href="https://www.linkedin.com/in/carlos-andres-paredes-carranza-4b1871259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
   <a href="https://github.com/carlosaparedes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff"/></a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ “La tecnología es el arte de transformar ideas en realidades.” ✨
+  🚀 <b>“Keep coding. Keep growing. Keep creating.”</b> 🚀  
 </p>
 
