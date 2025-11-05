@@ -43,15 +43,6 @@ Siempre busco aprender cosas nuevas, optimizar mi código y construir experienci
 
 ---
 
-### 📊 Mis estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosaparedes&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaparedes&layout=compact&theme=radical" height="180em" />
-</p>
-
----
-
 ### 🌎 Conéctate conmigo
 
 <p align="center">
